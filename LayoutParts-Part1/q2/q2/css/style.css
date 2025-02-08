@@ -3,44 +3,16 @@
 /* l--text */
 .cards{
   display: flex;
+  justify-content: center;
 }
 
-.left{
+.list{
   list-style: none;
   width: 200px;
-  float: left;
   background: #d2b48c;
   outline: 10px solid#655;
   box-shadow: 0 0 0 6px #655;
   border-radius: 13px;
   padding: 10px;
   margin: 30px;
-}
-
-.middle{
-  list-style: none;
-  width: 200px;
-  float: left;
-  background: #d2b48c;
-  outline: 10px  solid#655;
-  box-shadow: 0 0 0 6px #655;
-  border-radius: 13px;
-  float: left;
-  padding: 10px;
-  margin: 30px;
-
-}
-
-.right{
-  list-style: none;
-  width: 200px;
-  float: left;
-  background: #d2b48c;
-  outline: 10px  solid#655;
-  box-shadow: 0 0 0 6px #655;
-  border-radius: 13px;
-  float: left;
-  padding: 10px;
-  margin: 30px;
-
 }
