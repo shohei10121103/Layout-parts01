@@ -14,5 +14,9 @@
   box-shadow: 0 0 0 6px #655;
   border-radius: 13px;
   padding: 10px;
-  margin: 0 30px ;
+  margin-right:  60px ;
+}
+
+.list:last-of-type{
+  margin: 0;
 }
